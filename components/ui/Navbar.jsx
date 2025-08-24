@@ -148,6 +148,9 @@ export default function Navbar() {
             <Link href="/menu" className="px-4 py-2 text-sm font-medium text-gray-700 rounded-md hover:text-emerald-600 hover:bg-emerald-50/50 transition-all duration-300">
               Menu
             </Link>
+            <Link href="/login" className="px-4 py-2 text-sm font-medium text-gray-700 rounded-md hover:text-emerald-600 hover:bg-emerald-50/50 transition-all duration-300">
+              Login
+            </Link>
 
       
           </div>
