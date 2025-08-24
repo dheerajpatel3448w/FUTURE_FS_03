@@ -9,7 +9,7 @@ import Link from "next/link";
 import {app }from "../firebase.config";
 import navigate from "next/navigation";
 import { getAuth,signInWithEmailAndPassword } from "firebase/auth";
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 // ----------------------
 // Schema & Types
 // ----------------------
